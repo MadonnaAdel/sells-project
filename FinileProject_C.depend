@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1702836247 source:d:\project_c\finileproject_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1702844101 source:d:\projects\project_c\finileproject_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
